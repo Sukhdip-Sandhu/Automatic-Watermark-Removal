@@ -6,23 +6,13 @@
 
 ___
 ### Sample Results
-##### Watermarked Image | Our Results | Expected Results
 
-<img src='./images/0imagenet_wm.png' width=176>
-<img src='./images/0imagenet_rc.png' width=176>
-<img src='./images/0imagenet_gt.png' width=176>
-<br><br/>
-<img src='./images/1imagenet_wm.png' width=176>
-<img src='./images/1imagenet_rc.png' width=176>
-<img src='./images/1imagenet_gt.png' width=176>
-<br><br/>
-<img src='./images/1fotolia_wm.png'>
-<img src='./images/1fotolia_rc.png'>
-<img src='./images/1fotolia_gt.png'>
-<br><br/>
-<img src='./images/2fotolia_wm.png'>
-<img src='./images/2fotolia_rc.png'>
-<img src='./images/2fotolia_gt.png'>
+Watermarked Images             |  Our Results             |  Expected Results
+:-------------------------:|:-------------------------:|:-------------------------:
+![](./images/0imagenet_wm.png)  |  ![](./images/0imagenet_rc.png)  |  ![](./images/0imagenet_gt.png)
+![](./images/1imagenet_wm.png)  |  ![](./images/1imagenet_rc.png)  |  ![](./images/1imagenet_gt.png)
+![](./images/1fotolia_wm.png)  |  ![](./images/1fotolia_rc.png)  |  ![](./images/1fotolia_gt.png)
+![](./images/2fotolia_wm.png)  |  ![](./images/2fotolia_rc.png)  |  ![](./images/2fotolia_rc.png)
 
 ___
 ###### *please see code + report for citations of work we used during development :)*
