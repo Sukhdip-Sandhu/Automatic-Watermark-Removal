@@ -12,7 +12,7 @@ Watermarked Images             |  Our Results             |  Expected Results
 ![](./images/0imagenet_wm.png)  |  ![](./images/0imagenet_rc.png)  |  ![](./images/0imagenet_gt.png)
 ![](./images/1imagenet_wm.png)  |  ![](./images/1imagenet_rc.png)  |  ![](./images/1imagenet_gt.png)
 ![](./images/1fotolia_wm.png)  |  ![](./images/1fotolia_rc.png)  |  ![](./images/1fotolia_gt.png)
-![](./images/2fotolia_wm.png)  |  ![](./images/2fotolia_rc.png)  |  ![](./images/2fotolia_rc.png)
+![](./images/2fotolia_wm.png)  |  ![](./images/2fotolia_rc.png)  |  ![](./images/2fotolia_gt.png)
 
 ___
 ###### *please see code + report for citations of work we used during development :)*
